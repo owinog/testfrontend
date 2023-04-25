@@ -1,0 +1,40 @@
+.main-div {
+  background: rgb(13, 18, 44);
+  min-height: 90vh;
+  text-align: center;
+}
+
+.Home {
+  background: rgb(13, 18, 44);
+  min-height: 65vh;
+  text-align: center;
+  color: white;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.tittle {
+  font-weight: 500;
+}
+
+.gameicons {
+  position: relative;
+  top: 20px;
+  width: 850px;
+  height: 310px;
+}
+
+.div2 {
+  display: flex;
+  justify-content: center;
+  padding: 5%;
+  min-height: 20vh;
+}
+
+/* .div1 {
+    position: relative;
+    top: 20%;
+} */
